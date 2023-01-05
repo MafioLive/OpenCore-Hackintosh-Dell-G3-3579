@@ -6,36 +6,25 @@
 
 <img align="right" src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macos/psp-mini-hero-macos-high-sierra-whats-new_2x.png" alt="Critter" width="250">
 
-English | [中文](https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/blob/master/README_CN.md)（同步更新）
-
-### Latest Release: [v4.3](https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v4.3)
+### Latest Release: [v5.0](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v5.0)
 
 **macOS Version: 11.2.2**
 
-**OpenCore Version: [0.6.7 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.7)**
+**OpenCore Version: [0.8.8 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.8)**
 
-This OpenCore hackintosh repo is made for i5-8300H, GTX1050, no USB Type-C version of Dell G3 3579.
+This OpenCore hackintosh repo is made for i7-8750H, GTX1050TI, no USB Type-C version of Dell G3 3579.
 
-> I will try to update this project as fast as possible, which means it will be adapted to the latest version of OpenCore and macOS
->
-> Without [CerteKim](https://github.com/CerteKim)'s support there would be no such project.
->
-> [vv-byte](https://github.com/vv-byte) helped solve the battery management problem, thanks!
->
-> [CalvinXu](https://github.com/CalvinXu17) helped add Windows boot support, thanks!
->
-> PyhNOVWH provide SSDT for i2C trackpad, thanks!
->
-> Dell G3 Hackintosh QQ Group: 1028961766
-
-Try this EFI for further updates and Thunderbolt supports:(Credit: CalvinXu)
-
-https://github.com/CalvinXu17/OpenCore-Dell-G3-3579-1060mq
 
 ## Updates
-- 2021-03-02
 
-  OC 0.6.7 & kexts updated.
+2023-01-05
+
+OC 0.8.8 + Kexts Updated.
+
+<details>
+  <summary>2021-03-02</summary>
+  OC 0.6.7 + Kexts updated.
+</details>
   
 <details>
   <summary>2020-11-20</summary>
@@ -177,12 +166,12 @@ https://github.com/CalvinXu17/OpenCore-Dell-G3-3579-1060mq
 | Specifications | Detail | Working |
 | :------------: | :------: | :--------: |
 | Model | Dell G3 3579 | ✅ |
-| Processor | Intel Core i5-8300H @ 2.30Ghz | ✅ |
-| Memory | 8GB Micron DDR4 2666Mhz | ✅ |
-| SSD | Hikvision C2000Pro 512GB | ✅ |
+| Processor | Intel Core i7-8750H @ 2.20Ghz | ✅ |
+| Memory | 16GB Micron DDR4 2666Mhz | ✅ |
+| SSD | BC501 NVMe SK hynix 128GB | ✅ |
 | HDD | WD10SPZX 1TB | ✅ |
 | iGPU | Intel UHD Graphics 630 | ✅ |
-| dGPU | NVIDIA GeForce GTX 1050 4G | 🚫 |
+| dGPU | NVIDIA GeForce GTX 1050 TI 4G | 🚫 |
 | Sound Card | Realtek ALC236 | ✅ |
 | Ethernet Card | Realtek RTL8111 | ✅ |
 | Wireless Card | Inte Wireless-AC 9462 | ✅ |
@@ -211,7 +200,7 @@ Everything else is set default.
 
 ## Working
 
-- macOS 11.2.2
+- macOS 11.6
 - CPU (Boost to 4.0Ghz)
 - iGPU
 - Ethernet
