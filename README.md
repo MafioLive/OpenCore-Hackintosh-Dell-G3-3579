@@ -1,6 +1,6 @@
 # OpenCore Hackintosh for Dell G3 3579
 
-[![macOS](https://img.shields.io/badge/macOS-11.66-orange)](https://www.apple.com.cn/macos/big-sur-preview/)
+[![macOS](https://img.shields.io/badge/macOS-11.6-orange)](https://www.apple.com.cn/macos/big-sur-preview/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![license](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
