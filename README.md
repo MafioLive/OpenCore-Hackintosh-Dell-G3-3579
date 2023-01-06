@@ -4,7 +4,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![license](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-<img align="right" src="(https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_1028x578.v1666629922.png)" alt="Ventura Logo" width="250">
+<img align="right" src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_1028x578.v1666629922.png" alt="Ventura Logo" width="250">
 
 ### Latest Release: [v5.0](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/5.0)
 
