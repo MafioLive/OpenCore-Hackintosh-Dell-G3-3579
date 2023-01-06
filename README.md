@@ -14,55 +14,56 @@
 
 **The continuation of this project would not have been made possible without [Tonyleelyy](https://www.github.com/tonyleelyy)**
 
-This OpenCore hackintosh repo is made for i7-8750H, GTX1050TI, no USB Type-C version of Dell G3 3579.
+[**Install Guide**](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/blob/master/install-guide.md)
 
+This OpenCore hackintosh repo is made for i7-8750H, GTX1050TI, no USB Type-C version of Dell G3 3579.
 
 ## Updates
 
 2023-01-05
 
-  - OC 0.8.8 + Kexts Updated.
-  - macOS 12.6.2 (Monterey) Now Supported.
-  - macOS 13.1 (Ventura) Now Supported
+- OC 0.8.8 + Kexts Updated.
+- macOS 12.6.2 (Monterey) Now Supported.
+- macOS 13.1 (Ventura) Now Supported
 
 ## Supported macOS Versions:
 
-  - macOS 13.1 (Ventura)
-  - macOS 12.6.2 (Monterey)
-  - macOS 11.7.2 (Big Sur)
+- macOS 13.1 (Ventura)
+- macOS 12.6.2 (Monterey)
+- macOS 11.7.2 (Big Sur)
 
 ## Configuration
 
-| Specifications | Detail | Working |
-| :------------: | :------: | :--------: |
-| Model | Dell G3 3579 | ✅ |
-| Processor | Intel Core i7-8750H @ 2.20Ghz | ✅ |
-| Memory | 16GB Micron DDR4 2666Mhz | ✅ |
-| SSD | BC501 NVMe SK hynix 128GB | ✅ |
-| HDD | WD10SPZX 1TB | ✅ |
-| iGPU | Intel UHD Graphics 630 | ✅ |
-| dGPU | NVIDIA GeForce GTX 1050 TI 4G | 🚫 |
-| Sound Card | Realtek ALC236 | ✅ |
-| Ethernet Card | Realtek RTL8111 | ✅ |
-| Wireless Card | Inte Wireless-AC 9462 | ✅ |
+| Specifications |            Detail             | Working |
+| :------------: | :---------------------------: | :-----: |
+|     Model      |         Dell G3 3579          |   ✅    |
+|   Processor    | Intel Core i7-8750H @ 2.20Ghz |   ✅    |
+|     Memory     |   16GB Micron DDR4 2666Mhz    |   ✅    |
+|      SSD       |   BC501 NVMe SK hynix 128GB   |   ✅    |
+|      HDD       |         WD10SPZX 1TB          |   ✅    |
+|      iGPU      |    Intel UHD Graphics 630     |   ✅    |
+|      dGPU      | NVIDIA GeForce GTX 1050 TI 4G |   🚫    |
+|   Sound Card   |        Realtek ALC236         |   ✅    |
+| Ethernet Card  |        Realtek RTL8111        |   ✅    |
+| Wireless Card  |     Inte Wireless-AC 9462     |   ✅    |
 
 ## BIOS Configuration
 
-| **System Configuration** |      |
-| ------- | ---|
-| SATA Operation       | AHCI |
-|                      |      |
-| **Secure Bootxu**   |      |
-| Secure Boot Enable   | Disabled (Uncheck) |
-|  |                    |
+| **System Configuration**            |                    |
+| ----------------------------------- | ------------------ |
+| SATA Operation                      | AHCI               |
+|                                     |                    |
+| **Secure Bootxu**                   |                    |
+| Secure Boot Enable                  | Disabled (Uncheck) |
+|                                     |                    |
 | **Intel Software Guard Extensions** |                    |
-| Intel SGX Enable | Disabled           |
-|  |                    |
-| **POST Behavior** |                    |
-| Fastboot | Thorough           |
-|  |                    |
-| **Virtualization Support** |                    |
-| VT for Direct I/O | Disabled (Uncheck) |
+| Intel SGX Enable                    | Disabled           |
+|                                     |                    |
+| **POST Behavior**                   |                    |
+| Fastboot                            | Thorough           |
+|                                     |                    |
+| **Virtualization Support**          |                    |
+| VT for Direct I/O                   | Disabled (Uncheck) |
 
 Please update BIOS to the newest version.
 
