@@ -22,7 +22,7 @@ Using the command prompt Navigate to Utilities > macrecovery
 
 When in the macrecovery directory run the following command depending on the macOS version you want to install:
 
-`
+```
 
 # Big Sur (11)
 
@@ -37,7 +37,8 @@ python3 macrecovery.py -b Mac-FFE5EF870D7BA81A -m 00000000000000000 download
 # ie. Ventura (13)
 
 python3 macrecovery.py -b Mac-4B682C642B45593E -m 00000000000000000 download
-`
+
+```
 
 This will create a folder called com.apple.recovery.boot in the macrecovery directory.
 
