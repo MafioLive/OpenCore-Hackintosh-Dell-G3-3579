@@ -6,7 +6,7 @@
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/MacOS_Monterey_logo.png" alt="Critter" width="250">
 
-### Latest Release: [v5.0](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/archive/refs/heads/master.zip)
+### Latest Release: [v5.0](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/5.0)
 
 **macOS Version: 12.6.2**
 
@@ -68,8 +68,6 @@ Everything else is set default.
 
 ## Working
 
-- macOS 11.7.2 (Big Sur)
-- macOS 12.6.2 (Monterey)
 - CPU (Boost to 4.0Ghz)
 - iGPU
 - Ethernet
