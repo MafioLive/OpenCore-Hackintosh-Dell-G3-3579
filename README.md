@@ -14,7 +14,7 @@
 
 **The continuation of this project would not have been made possible without [Tonyleelyy](https://www.github.com/tonyleelyy)**
 
-[**Install Guide**](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/blob/a5b08d2c0a1e6c4b025d87c38de7626324c0b618/INSTALL-GUIDE.md)
+[**Install Guide**](https://github.com/MafioLive/OpenCore-Hackintosh-Dell-G3-3579/blob/master/INSTALL-GUIDE.md)
 
 This OpenCore hackintosh repo is made for i7-8750H, GTX1050TI, no USB Type-C version of Dell G3 3579.
 
