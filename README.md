@@ -1,6 +1,6 @@
 # OpenCore Hackintosh for Dell G3 3579
 
-[![macOS](https://img.shields.io/badge/macOS-12.6.2-orange)](https://www.apple.com.cn/macos/big-sur-preview/)
+[![macOS](https://img.shields.io/badge/macOS-12.6.2-green)](https://www.apple.com.cn/macos/big-sur-preview/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-9cf)](https://github.com/acidanthera/OpenCorePkg)
 [![license](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
@@ -24,6 +24,10 @@ This OpenCore hackintosh repo is made for i7-8750H, GTX1050TI, no USB Type-C ver
   - OC 0.8.8 + Kexts Updated.
   - macOS 12.6.2 (Monterey) Now Supported.
 
+## Supported macOS Versions:
+
+  - macOS 12.6.2 (Monterey)
+  - macOS 11.7.2 (Big Sur
 
 ## Configuration
 
